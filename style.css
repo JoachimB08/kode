@@ -1,0 +1,114 @@
+body {
+  background-color: rgb(31, 74, 201);
+}
+.dark-mode {
+  background-color: black;
+  .legals {
+    color: aliceblue;
+  }
+  .list-1 {
+    color: #ffffff;
+  }
+  .text-top {
+    color: #ffffff;
+  }
+  .text-middle {
+    color: #ffffff;
+  }
+  .text-bottom {
+    color: #ffffff;
+  }
+  .text-sign {
+    color: #ffffff;
+  }
+}
+
+.joachim-jpg {
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-1 {
+  color: #000000;
+  font-size: x-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.text-box {
+  color: rgb(255, 255, 255);
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 0%;
+  block-size: 10%;
+  margin-bottom: 1%;
+  margin-top: 2%;
+}
+
+.button-1 {
+  width: 5%;
+  font-weight: lighter;
+  font-family: fantasy;
+  margin-left: 48%;
+  margin-right: 0%;
+}
+.button-2 {
+  position: relative;
+  left: 1870px;
+  top: -1120px;
+  font-weight: lighter;
+  font-family: fantasy;
+}
+
+.dexter-jpg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.demon-jpg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+.text-top {
+  text-decoration: wavy;
+  font-style: italic;
+  font-size: xx-large;
+  font-family: fantasy;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(0, 0, 0);
+}
+.text-middle {
+  color: rgb(0, 0, 0);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+.text-bottom {
+  color: rgb(0, 0, 0);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+.legals {
+  font-size: x-small;
+  margin-top: 0%;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: 0%;
+}
+
+.text-sign {
+  font-family: fantasy;
+  font-size: x-large;
+  margin-top: 1%;
+  text-align: center;
+}
